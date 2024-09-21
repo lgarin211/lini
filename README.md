@@ -1,2 +1,0 @@
-# lini
-pendeteksi suara
